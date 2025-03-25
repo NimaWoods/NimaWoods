@@ -1,28 +1,29 @@
 ### 👋 About Me
 
-Hi there! I'm **Niklas Fabritzius**, a passionate **software developer** and **trainee in application development**. I enjoy solving challenging problems and constantly learning new technologies to improve my craft. Here's a bit more about me:
+Hi there! I'm **Niklas Fabritzius**, a passionate **software developer** and **trainee in application development**. I love solving challenging problems and continuously learning new technologies to improve my craft. Here's a bit more about me:
 
-- 💻 Currently diving deep into **Java**, **Python**, and exploring the world of **Rust** and **C++**.  
-- 🎮 Interested in **game development** using engines like **Unity** and **Unreal Engine**.  
-- 🧠 Working on projects related to **AI frameworks** and **translation tools**.  
-- 🔧 Enjoy experimenting with tools like **Jsoup**, **Liquibase**, and integrating APIs.  
-- 🐧 Open-source enthusiast, working with **Ubuntu Server** and setting up environments like **WebDAV** and **Minecraft servers**.  
-- 🚀 Always eager to explore new programming paradigms and optimize systems for performance and usability.  
+- 💻 Currently diving deep into **Java** and **Python**, while exploring **Rust** and **C++**  
+- 🎮 Enthusiastic about **game development** with **Unity** and **Unreal Engine**  
+- 🤖 Building projects around **AI frameworks** and **translation tools**  
+- 🔧 Tinkering with tools like **Jsoup**, **Liquibase**, and integrating external APIs  
+- 🐧 Open-source enthusiast working with **Ubuntu Server**, setting up **WebDAV**, and managing **Minecraft servers**  
+- 🚀 Always curious about new programming paradigms and system optimization  
 
 ---
 
 ### 📚 Interests
 
-- 📦 Building flexible and modular applications.  
-- 🔍 Improving **search tables**, optimizing UI/UX, and learning advanced **Angular** techniques.  
-- 🐾 Animal lover with a background in **pet sitting** and caring for furry friends.  
-- 🎸 Playing guitar and creating in my spare time.  
-- 🌍 Aspiring to live and work in **Norway** someday.
+- 📦 Creating flexible, modular applications with maintainability in mind  
+- 🔍 Optimizing **search tables**, improving **UI/UX**, and diving into advanced **Angular** patterns  
+- 🐾 Animal lover with experience in **pet sitting** and caring for furry companions  
+- 🎸 Guitar player and creative mind in my free time  
+- 🌍 Dreaming of living and working in **Norway** one day  
 
 ---
 
 ### 📬 Get in Touch
 
-Feel free to check out my repositories or connect with me for collaborations and discussions. I'm always happy to share knowledge and learn from others!
+Feel free to check out my repositories or reach out for collaboration or discussion.  
+Always happy to connect, share knowledge, and learn from others!
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-NimaWoods-blue?style=flat&logo=github)](https://github.com/NimaWoods)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-NimaWoods-blue?style=flat&logo=github)](https://github.com/NimaWoods)  [![Discord Badge](https://img.shields.io/badge/Discord-NimaWoods-blue?style=flat&logo=discord)](https://discord.com/users/303571400164245504)
