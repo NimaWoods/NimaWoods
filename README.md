@@ -2,7 +2,7 @@
 
 Hi there! I'm **Niklas Fabritzius**, a passionate **software developer** and **trainee in application development**. I love solving challenging problems and continuously learning new technologies to improve my craft. Here's a bit more about me:
 
-- 💻 Currently diving deep into **Java** and **Python**, while exploring **GoLang** and **C++**  
+- 💻 Currently diving deep into **Java** and **Python**, while exploring **GoLang** and **C#**  
 - 🎮 Enthusiastic about **game development** with **Unity** and **Unreal Engine**  
 - 🤖 Building projects around **AI frameworks** and **translation tools**  
 - 🔧 Tinkering with tools like **Jsoup**, **Liquibase**, and integrating external APIs  
